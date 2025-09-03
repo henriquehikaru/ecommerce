@@ -13,7 +13,7 @@
     }
 
     echo
-        "<form action='formlogin' method='post' action=''>
+        "<form name='formlogin' method='post' action=''>
             <label for='login'>Login</label>
             <input type='text' name='login' value'$loginCookie'>            
             <label for='senha'>Senha</label>
