@@ -34,7 +34,7 @@
             header('Location: index.php');
         } else {
             echo "<b>Usuario ou senha nao encontrado</b>
-                <br><br> <a ef='index.php'>Voltar</a>";
+                <br><br> <a href='index.php'>Voltar</a>";
         }
     }
 
